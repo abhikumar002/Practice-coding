@@ -11,6 +11,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhikumar002/Practice-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,11 +30,13 @@
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhikumar002/Practice-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +70,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhikumar002/Practice-coding/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
