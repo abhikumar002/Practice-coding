@@ -11,6 +11,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhikumar002/Practice-coding/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
@@ -80,5 +81,6 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
