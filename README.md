@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/abhikumar002/Practice-coding/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhikumar002/Practice-coding/tree/master/0907-koko-eating-bananas) |
