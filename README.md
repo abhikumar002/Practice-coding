@@ -89,6 +89,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -101,4 +102,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/abhikumar002/Practice-coding/tree/master/2737-row-with-maximum-ones) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
