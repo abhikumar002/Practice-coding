@@ -33,6 +33,7 @@
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
+| [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhikumar002/Practice-coding/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/abhikumar002/Practice-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Matrix
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
