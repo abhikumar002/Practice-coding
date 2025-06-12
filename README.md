@@ -112,9 +112,14 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
 ## Design
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
