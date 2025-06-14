@@ -114,6 +114,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
+| [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
 | ------- |
@@ -122,4 +123,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
