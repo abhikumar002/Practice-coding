@@ -72,11 +72,13 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
@@ -143,6 +145,7 @@
 | [0046-permutations](https://github.com/abhikumar002/Practice-coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
