@@ -67,10 +67,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
@@ -130,6 +132,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
