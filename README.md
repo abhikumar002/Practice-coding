@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/abhikumar002/Practice-coding/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [2737-row-with-maximum-ones](https://github.com/abhikumar002/Practice-coding/tree/master/2737-row-with-maximum-ones) |
 ## Math
 |  |
@@ -144,6 +147,7 @@
 | [0040-combination-sum-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhikumar002/Practice-coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -151,4 +155,8 @@
 | ------- |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0090-subsets-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
