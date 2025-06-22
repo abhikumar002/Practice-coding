@@ -12,13 +12,19 @@ public:
     // }
 
     int climbStairs(int steps) {
-        vector<int> dp(steps+1,-1);
-        dp[0] = 1;
-        dp[1] = 1;
+        // vector<int> dp(steps+1,-1);
+        // dp[0] = 1;
+        // dp[1] = 1;
+
+        int first = 1;
+        int second = 1;
+        int temp = -1;
 
         for(int i = 2;i<steps+1;i++){
-            dp[i] = dp[i-1] + dp[i-2];
+            temp = first + second;
+            first = second;
+            second = temp;
         }
-        return dp[steps];
+        return second;
     }
 };
