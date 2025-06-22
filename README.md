@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 ## String
@@ -128,6 +129,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0070-climbing-stairs) |
 | [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
