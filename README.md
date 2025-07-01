@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhikumar002/Practice-coding/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/abhikumar002/Practice-coding/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abhikumar002/Practice-coding/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhikumar002/Practice-coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
@@ -126,6 +128,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [2737-row-with-maximum-ones](https://github.com/abhikumar002/Practice-coding/tree/master/2737-row-with-maximum-ones) |
