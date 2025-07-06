@@ -88,6 +88,7 @@
 | [0198-house-robber](https://github.com/abhikumar002/Practice-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0213-house-robber-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
