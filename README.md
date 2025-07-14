@@ -78,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/abhikumar002/Practice-coding/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0063-unique-paths-ii) |
@@ -96,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
@@ -110,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
