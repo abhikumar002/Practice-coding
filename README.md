@@ -34,6 +34,7 @@
 | [0907-koko-eating-bananas](https://github.com/abhikumar002/Practice-coding/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0967-minimum-falling-path-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhikumar002/Practice-coding/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/abhikumar002/Practice-coding/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2737-row-with-maximum-ones](https://github.com/abhikumar002/Practice-coding/tree/master/2737-row-with-maximum-ones) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
