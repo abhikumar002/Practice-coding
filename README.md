@@ -21,6 +21,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhikumar002/Practice-coding/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/abhikumar002/Practice-coding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0213-house-robber-ii) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
+| [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
@@ -158,6 +160,7 @@
 | [0062-unique-paths](https://github.com/abhikumar002/Practice-coding/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/abhikumar002/Practice-coding/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
 | [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 ## Design
 |  |
