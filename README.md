@@ -119,6 +119,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
 ## Queue
@@ -176,6 +177,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -214,4 +216,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
