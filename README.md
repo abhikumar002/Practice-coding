@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
