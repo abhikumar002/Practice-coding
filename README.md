@@ -120,6 +120,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/abhikumar002/Practice-coding/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/abhikumar002/Practice-coding/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/abhikumar002/Practice-coding/tree/master/0567-permutation-in-string) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhikumar002/Practice-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/abhikumar002/Practice-coding/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/abhikumar002/Practice-coding/tree/master/2050-count-good-numbers) |
@@ -220,10 +222,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhikumar002/Practice-coding/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhikumar002/Practice-coding/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
