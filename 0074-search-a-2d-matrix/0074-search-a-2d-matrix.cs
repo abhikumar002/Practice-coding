@@ -1,35 +1,34 @@
 public class Solution {
-    public bool SearchMatrix(int[][] matrix, int target) {
-        int n = matrix.Length;
-        int m = matrix[0].Length;
+    public bool SearchMatrix(int[][] nums, int target) {
+        
+        int n = nums.Length;
+        int m = nums[0].Length;
 
-        if(matrix[0][0] == target) return true;
-
-        int up = 0, down = n-1;
-        while(up < down){
-            int mid = (up + down) / 2;
-            // Console.WriteLine(up + " "+down+" -> " + mid);
-            if(matrix[mid][0] ==target) return true;
-            else if(matrix[mid][0] < target) up = mid+1;
-            else down = mid-1;
+        // vertical Search
+        int low = 0;
+        int high = n-1;
+        while(low < high){
+            int mid = (low+high)/2;
+            if (nums[mid][0] <= target && target <= nums[mid][m - 1]) {
+                low = mid;
+                break;
+            }
+            if(nums[mid][0] < target) low = mid+1;
+            else high = mid-1;
         }
 
-        int targetrow = up;
-        if (targetrow >= n || matrix[targetrow][0] > target) 
-        {
-            targetrow = targetrow - 1;
-        }
-        if(targetrow < 0) return false;
+        if (low < 0 || low >= n) return false;
 
-        int left = 0, right = m-1;
+        // horizontal Search
+        int left = 0;
+        int right = m-1;
         while(left <= right){
-            int mid = (left + right) / 2;
-            //Console.WriteLine(left + " "+right+" -> " + mid);
-            if(matrix[targetrow][mid] == target) return true;
-            else if(matrix[targetrow][mid] < target) left = mid+1;
+            int mid = (left+right)/2;
+            if(target == nums[low][mid]) return true;
+            if(nums[low][mid] < target) left = mid+1;
             else right = mid-1;
         }
-        return false;
 
-    } 
+        return false;
+    }
 }
