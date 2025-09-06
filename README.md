@@ -107,6 +107,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhikumar002/Practice-coding/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
@@ -242,6 +243,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
