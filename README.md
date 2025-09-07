@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhikumar002/Practice-coding/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/abhikumar002/Practice-coding/tree/master/0155-min-stack) |
 | [1023-time-based-key-value-store](https://github.com/abhikumar002/Practice-coding/tree/master/1023-time-based-key-value-store) |
 ## Recursion
 |  |
@@ -245,6 +246,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/abhikumar002/Practice-coding/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/abhikumar002/Practice-coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
