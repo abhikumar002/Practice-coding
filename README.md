@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhikumar002/Practice-coding/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/abhikumar002/Practice-coding/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhikumar002/Practice-coding/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0966-binary-subarrays-with-sum) |
@@ -251,6 +252,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhikumar002/Practice-coding/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhikumar002/Practice-coding/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/abhikumar002/Practice-coding/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/abhikumar002/Practice-coding/tree/master/0739-daily-temperatures) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -264,4 +266,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhikumar002/Practice-coding/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abhikumar002/Practice-coding/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
