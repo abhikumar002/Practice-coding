@@ -53,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/abhikumar002/Practice-coding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhikumar002/Practice-coding/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhikumar002/Practice-coding/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhikumar002/Practice-coding/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/abhikumar002/Practice-coding/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
@@ -119,6 +121,7 @@
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/abhikumar002/Practice-coding/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0516-longest-palindromic-subsequence) |
