@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/abhikumar002/Practice-coding/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhikumar002/Practice-coding/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/abhikumar002/Practice-coding/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/abhikumar002/Practice-coding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhikumar002/Practice-coding/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhikumar002/Practice-coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhikumar002/Practice-coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/abhikumar002/Practice-coding/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0883-car-fleet](https://github.com/abhikumar002/Practice-coding/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/abhikumar002/Practice-coding/tree/master/1019-squares-of-a-sorted-array) |
