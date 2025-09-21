@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhikumar002/Practice-coding/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/abhikumar002/Practice-coding/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhikumar002/Practice-coding/tree/master/0074-search-a-2d-matrix) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/abhikumar002/Practice-coding/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/abhikumar002/Practice-coding/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhikumar002/Practice-coding/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
@@ -84,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhikumar002/Practice-coding/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abhikumar002/Practice-coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhikumar002/Practice-coding/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
@@ -119,6 +122,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhikumar002/Practice-coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhikumar002/Practice-coding/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/abhikumar002/Practice-coding/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/abhikumar002/Practice-coding/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/abhikumar002/Practice-coding/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/abhikumar002/Practice-coding/tree/master/0242-valid-anagram) |
