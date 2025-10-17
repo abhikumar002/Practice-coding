@@ -1,22 +1,22 @@
 class Solution {
 public:
-    void allset(int index,vector<int>& nums,vector<vector<int>>& ans,vector<int>& ds){
-        if(index==nums.size()){
-            ans.push_back(ds);
+    void recursion(int index, vector<int>& nums, vector<int>& v, vector<vector<int>> & ans) {
+        if(index < 0){
+            ans.push_back(v);
             return;
         }
         
-        allset(index+1,nums,ans,ds);
-        ds.push_back(nums[index]);
-        allset(index+1,nums,ans,ds);
-        ds.pop_back();
+        v.push_back(nums[index]);
+        recursion(index-1,nums,v, ans );
+        v.pop_back();
+        recursion(index-1,nums,v, ans );
     }
-    
+
     vector<vector<int>> subsets(vector<int>& nums) {
+        int n = nums.size();
         vector<vector<int>> ans;
-        vector<int> ds;
-        allset(0,nums,ans,ds);
-        
+        vector<int> v;
+        recursion(n-1,nums,v,ans);
         return ans;
     }
 };
