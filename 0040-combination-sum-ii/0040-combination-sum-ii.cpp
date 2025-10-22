@@ -1,45 +1,34 @@
 class Solution {
 public:
-    set<vector<int>> recursion(set<vector<int>>& ans, vector<int>& temp, int index, int target, vector<int>& arr){
-        if(target == 0)
-        {
-            ans.insert(temp);
-            return ans;
-        }
 
-        if(index == arr.size()){
-            return ans;
-        }
+    void recursion(int index, vector<int>& candidates, set<vector<int>>& hset, vector<int>& temp, int target){
+        if(target == 0) { hset.insert(temp); return; }
+        if(index >= candidates.size() || target < 0) return;
 
-        if(target < 0) return ans;
-
-        if(arr[index]<=target){
-            temp.push_back(arr[index]);
-            recursion(ans,temp,index+1,target-arr[index],arr);
+        if(candidates[index]<=target){
+            temp.push_back(candidates[index]);
+            recursion(index+1,candidates, hset, temp, target - candidates[index]); // take
             temp.pop_back();
         }
 
         int nextIndex = index + 1;
-        while (nextIndex < arr.size() && arr[nextIndex] == arr[index]) {
+        while (nextIndex < candidates.size() && candidates[nextIndex] == candidates[index]) {
             nextIndex++;
         }
+        recursion(nextIndex,candidates, hset, temp, target); // non-take
 
-        recursion(ans, temp, nextIndex, target, arr);
-        return ans;
-
+        return;
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& nums, int target) {
-        //vector<vector<int>> ans;
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        int n = candidates.size();
         vector<int> temp;
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
+        set<vector<int>> hset;
+        sort(candidates.begin(),candidates.end());
 
-        set<vector<int>> ans;
+        recursion(0,candidates, hset, temp, target);
 
-        ans = recursion(ans,temp,0,target,nums);
-        
-        vector<vector<int>> t(ans.begin(),ans.end());
-        return t;
+        vector<vector<int>> ans(hset.begin(), hset.end());
+        return ans;
     }
 };
