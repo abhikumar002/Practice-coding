@@ -1,30 +1,27 @@
 class Solution {
 public:
+    void recursion(int index, vector<int>& temp, set<vector<int>>& st, vector<int>& nums){
 
-    set<vector<int>> recursion(set<vector<int>>& ans, vector<int>& temp, int index, int n, vector<int>& arr)  
-    {
+        st.insert(temp);
         
-        if(index == n){
-            ans.insert(temp);
-            return ans;
-        }
+        if(index == nums.size())  return;
 
-
-        temp.push_back(arr[index]);
-        recursion(ans,temp,index+1,n,arr);
+        temp.push_back(nums[index]);
+        recursion(index+1, temp, st, nums);
         temp.pop_back();
-        recursion(ans,temp,index+1,n,arr);
-        return ans;
+        recursion(index+1, temp, st, nums);
 
+        return;
     }
 
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        set<vector<int>> ans;
         vector<int> temp;
+        set<vector<int>> st;
         sort(nums.begin(),nums.end());
-        int n = nums.size();
-        ans = recursion(ans,temp,0,n,nums);
-        vector<vector<int>> t(ans.begin(),ans.end());
-        return t;
+
+        recursion(0, temp, st, nums);
+        vector<vector<int>> ans(st.begin(),st.end());
+
+        return ans;
     }
 };
