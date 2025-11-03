@@ -1,26 +1,24 @@
 class Solution {
 public:
     vector<string>v={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-    vector<string> recursion(vector<string>& ans,string temp,int index, string digits){
-        
-        if(temp.size() == digits.size()){
-            ans.push_back(temp);
-            return ans;
+    void recursion(int index, string s, string digits, vector<string>& ans) {
+        if(s.size() == digits.size()){
+            ans.push_back(s);
+            return;
         }
 
-        string s = v[digits[index]-'0'];
-        for(auto c : s){
-            temp.push_back(c);
-            recursion(ans,temp,index+1,digits);
-            temp.pop_back();
-        }       
-        return ans;
+        string str = v[digits[index] - '0'];
 
+        for(auto c : str){
+            s.push_back(c);
+            recursion(index+1,s,digits,ans);
+            s.pop_back();
+        }
     }
 
     vector<string> letterCombinations(string digits) {
         vector<string> ans;
-        if(digits.size() == 0) return ans;
-        return recursion(ans,"",0,digits);
+        recursion(0,"",digits,ans);
+        return ans;
     }
 };
