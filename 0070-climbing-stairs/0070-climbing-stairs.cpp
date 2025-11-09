@@ -1,18 +1,18 @@
 class Solution {
 public:
-
-    int recursion(vector<int> & dp, int steps) {
+    int StairsRecursive(int index,int n, int& ans,  vector<int>& v) {
+        if(index == n){ return 1; }
+        if(index > n){ return 0; }
         
-        if(steps < 0) return 0;
-        if(steps == 0) return 1;
+        if(v[index] != -1) return v[index];
+        v[index] = StairsRecursive(index+1, n, ans, v) + StairsRecursive(index+2, n, ans, v);
 
-        if(dp[steps] != -1) return dp[steps];
-        dp[steps] = recursion(dp,steps-1) + recursion(dp,steps-2);
-        return dp[steps];
+        return v[index];
     }
 
-    int climbStairs(int steps) {
-        vector<int> dp(steps+1,-1);
-        return recursion(dp,steps);
+    int climbStairs(int n) {
+        int ans = 0;
+        vector<int>v(n+1,-1);
+        return StairsRecursive(0,n,ans,v);
     }
 };
