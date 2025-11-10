@@ -37,6 +37,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/abhikumar002/Practice-coding/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/abhikumar002/Practice-coding/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/abhikumar002/Practice-coding/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abhikumar002/Practice-coding/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhikumar002/Practice-coding/tree/master/0907-koko-eating-bananas) |
@@ -114,6 +115,7 @@
 | [0198-house-robber](https://github.com/abhikumar002/Practice-coding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhikumar002/Practice-coding/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/0516-longest-palindromic-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/abhikumar002/Practice-coding/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/abhikumar002/Practice-coding/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/abhikumar002/Practice-coding/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/abhikumar002/Practice-coding/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
