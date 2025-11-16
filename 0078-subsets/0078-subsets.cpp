@@ -1,22 +1,24 @@
 class Solution {
 public:
-    void recursion(int index, vector<int>& nums, vector<int>& v, vector<vector<int>> & ans) {
-        if(index < 0){
-            ans.push_back(v);
+    void recursion(int index, vector<int>& nums, vector<int>& temp, vector<vector<int>>& ans) {
+        if(index == nums.size()){
+            ans.push_back(temp);
             return;
         }
-        
-        v.push_back(nums[index]);
-        recursion(index-1,nums,v, ans );
-        v.pop_back();
-        recursion(index-1,nums,v, ans );
+
+        temp.push_back(nums[index]);
+        recursion(index+1,nums,temp, ans);
+        temp.pop_back();
+        recursion(index+1,nums,temp, ans);
+
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
+        sort(nums.begin(),nums.end());
         vector<vector<int>> ans;
-        vector<int> v;
-        recursion(n-1,nums,v,ans);
+        vector<int> temp;
+
+        recursion(0, nums, temp, ans);
         return ans;
     }
 };
