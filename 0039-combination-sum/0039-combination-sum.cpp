@@ -1,23 +1,28 @@
 class Solution {
 public:
-    void recursion(int index, vector<int>& candidates, vector<vector<int>>& ans, vector<int>& temp, int target){
-        if(index < 0 || target < 0 )  return;
-        if(target == 0) { ans.push_back(temp); return; }
+    void SolveSum(int index, vector<int>& candidates, int target, vector<vector<int>>& ans, vector<int>& temp) {
+        if(target == 0) {
+            ans.push_back(temp);
+            return;
+        }
+        if(target < 0 || index >= candidates.size()) return;
 
+        //lena hai
         temp.push_back(candidates[index]);
-        recursion(index,candidates, ans, temp, target - candidates[index]); // take
+        SolveSum(index, candidates, target-candidates[index], ans, temp);
         temp.pop_back();
-        recursion(index-1,candidates, ans, temp, target); // non-take
 
-        return;
+        //nhi lena
+        SolveSum(index+1, candidates, target, ans, temp);
+
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         int n = candidates.size();
-        vector<int> temp;
         vector<vector<int>> ans;
+        vector<int> temp;
 
-        recursion(n-1,candidates, ans, temp, target);
+        SolveSum(0, candidates, target, ans, temp);
         return ans;
     }
 };
